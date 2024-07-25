@@ -34,24 +34,6 @@ Esta aplicação é um sistema de cadastro de usuários desenvolvido para demons
   npm install // ou yarn install
 ```
 
-### Rodando o Servidor de Desenvolvimento
-
-Para iniciar o servidor de desenvolvimento, use o seguinte comando (o servidor de desenvolvimento não inclui a entrega dos arquivos estaticos pelo node):
-
-```sh
-  npm run dev
-```
-
-### Build para Produção
-
-Para gerar o build para produção, use:
-
-```sh
-  npm run build
-```
-
-Os arquivos de produção serão gerados na pasta dist.
-
 ### Rodando Servidor
 
 Para iniciar o servidor (não é necessario rodar o `npm run build` antes), use:
